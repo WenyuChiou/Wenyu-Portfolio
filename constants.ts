@@ -96,7 +96,8 @@ export const EXPERIENCES: Experience[] = [
 export const SKILLS: SkillCategory[] = [
   {
     category: "Research & Modeling",
-    skills: ["Catastrophe Modeling", "Agent-Based Modeling", "Hydrology & Groundwater", "Risk & Resilience Analysis", "Bayesian Inference"]
+    category: "Research & Modeling",
+    skills: ["Catastrophe Modeling", "Agent-Based Modeling", "Flood Adaptation", "Flood Risk Management", "Hydrology & Groundwater", "Risk & Resilience Analysis", "Bayesian Inference"]
   },
   {
     category: "Programming & Tools",
