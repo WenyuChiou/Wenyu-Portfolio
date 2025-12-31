@@ -133,14 +133,14 @@ export const PUBLICATIONS: any[] = [
   },
   {
     id: "ies-poster",
-    title: "Seasonal variations of water and energy budget of evergreen broad-leaved forest in central Taiwan",
+    title: "Long-term variation of water isotope composition in Feitsui Reservoir",
     conference: "Academia Sinica",
     year: "2020",
     pdf: "assets/documents/publications/ies-poster.pdf"
   },
   {
     id: "jtae",
-    title: "Journal of Traffic and Transportation Engineering Study",
+    title: "Seasonal variations of water and energy budget of evergreen broad-leaved forest in central Taiwan",
     conference: "JTAE",
     year: "2020",
     pdf: "assets/documents/publications/jtae-2020.pdf"
