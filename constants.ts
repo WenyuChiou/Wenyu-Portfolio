@@ -133,7 +133,7 @@ export const PUBLICATIONS: any[] = [
   },
   {
     id: "ies-poster",
-    title: "IES Summer Internship Poster",
+    title: "Seasonal variations of water and energy budget of evergreen broad-leaved forest in central Taiwan",
     conference: "Academia Sinica",
     year: "2020",
     pdf: "assets/documents/publications/ies-poster.pdf"
