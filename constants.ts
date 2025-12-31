@@ -94,6 +94,56 @@ export const EXPERIENCES: Experience[] = [
       "Thesis: Submarine Groundwater Discharge and Salinity Dynamics in Coastal Taoyuan."
     ],
     skills: ["Hydrology", "Oceanic Science"]
+  },
+  {
+    id: "ies_intern",
+    company: "Academia Sinica (IES)",
+    role: "Research Intern",
+    period: "Jul 2020 - Aug 2020",
+    description: [
+      "Summer Internship at Institute of Earth Sciences.",
+      "Conducted analysis on seismic data and geological structures."
+    ],
+    skills: ["Seismology", "Data Analysis"],
+    image: "assets/images/projects/ies/cover.jpg"
+  }
+];
+
+export const PUBLICATIONS: any[] = [
+  {
+    id: "agu-2025",
+    title: "Agent-Based Flood Adaptation Model",
+    conference: "AGU Fall Meeting 2025",
+    year: "2025",
+    pdf: "assets/documents/publications/agu2025-poster.pdf"
+  },
+  {
+    id: "agu-2024",
+    title: "Advancing Flood Risk Assessment",
+    conference: "AGU Fall Meeting 2024",
+    year: "2024",
+    pdf: "assets/documents/publications/agu2024-poster.pdf"
+  },
+  {
+    id: "thesis",
+    title: "Submarine Groundwater Discharge and Salinity Dynamics in Coastal Taoyuan",
+    conference: "Master Thesis",
+    year: "2023",
+    pdf: "assets/documents/publications/thesis-2023.pdf"
+  },
+  {
+    id: "ies-poster",
+    title: "IES Summer Internship Poster",
+    conference: "Academia Sinica",
+    year: "2020",
+    pdf: "assets/documents/publications/ies-poster.pdf"
+  },
+  {
+    id: "jtae",
+    title: "Journal of Traffic and Transportation Engineering Study",
+    conference: "JTAE",
+    year: "2020",
+    pdf: "assets/documents/publications/jtae-2020.pdf"
   }
 ];
 

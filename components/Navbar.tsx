@@ -6,6 +6,7 @@ const Navbar: React.FC = () => {
   const navItems = [
     { name: 'About', href: '#about' },
     { name: 'Projects', href: '#projects' },
+    { name: 'Publications', href: '#publications' },
     { name: 'Experience', href: '#experience' },
     { name: 'Skills', href: '#skills' },
     { name: 'Chat', href: '#ai-chat' },

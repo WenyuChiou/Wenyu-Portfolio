@@ -25,6 +25,14 @@ export interface SkillCategory {
   skills: string[];
 }
 
+export interface Publication {
+  id: string;
+  title: string;
+  conference: string;
+  year: string;
+  pdf: string;
+}
+
 export interface ChatMessage {
   role: 'user' | 'assistant';
   content: string;
