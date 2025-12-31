@@ -20,28 +20,32 @@ export const PROJECTS: Project[] = [
     title: "Agent-Based Flood Adaptation Model",
     description: "A comprehensive agent-based modeling system to simulate long-term household adaptation to flood risk, accounting for social heterogeneity.",
     techStack: ["AGU 2025", "ABM", "Flood Risk", "Adaptation"],
-    image: "assets/images/projects/agu2025/poster.jpg"
+    image: "assets/images/projects/agu2025/poster.jpg",
+    pdf: "assets/documents/publications/agu2025-poster.pdf"
   },
   {
     id: "ai-trader",
     title: "AI-Trader Ollama",
     description: "A fully autonomous stock trading system using 6 specialized LLM agents with RAG memory and 28+ market tools to analyze NASDAQ-100.",
     techStack: ["Python", "LLM Agents", "RAG", "MCP"],
-    image: "assets/images/projects/ai-trader/cover.png"
+    image: "assets/images/projects/ai-trader/cover.png",
+    githubUrl: "https://github.com/WenyuChiou"
   },
   {
     id: "event-driven",
     title: "Event-Driven Trading Strategy",
     description: "A machine learning-based trading system inspired by 'Hydraulic Jump' fluid dynamics to detect market reversal events.",
     techStack: ["Python", "Machine Learning", "Alpha Mining", "Backtesting"],
-    image: "assets/images/projects/event-driven/cover.png"
+    image: "assets/images/projects/event-driven/cover.png",
+    githubUrl: "https://github.com/WenyuChiou"
   },
   {
     id: "agu-2023",
     title: "Groundwater Modeling (AGU 2023)",
     description: "Integrated ERT techniques, field observations, and numerical simulations to investigate dynamics of submarine groundwater discharge.",
     techStack: ["AGU 2023", "ERT", "SGD", "Poster"],
-    image: "assets/images/projects/groundwater/anima.gif"
+    image: "assets/images/projects/groundwater/anima.gif",
+    pdf: "assets/documents/publications/thesis-2023.pdf"
   }
 ];
 
