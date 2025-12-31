@@ -112,7 +112,7 @@ export const EXPERIENCES: Experience[] = [
 export const PUBLICATIONS: any[] = [
   {
     id: "agu-2025",
-    title: "Agent-Based Flood Adaptation Model",
+    title: "Modeling Long-Term Household Flood Adaptation under Social Heterogeneity: A Coupled Agent-Based Modeling Framework",
     conference: "AGU Fall Meeting 2025",
     year: "2025",
     pdf: "assets/documents/publications/agu2025-poster.pdf"
@@ -125,9 +125,9 @@ export const PUBLICATIONS: any[] = [
     pdf: "assets/documents/publications/agu2024-poster.pdf"
   },
   {
-    id: "thesis",
-    title: "Submarine Groundwater Discharge and Salinity Dynamics in Coastal Taoyuan",
-    conference: "Master Thesis",
+    id: "agu-2023",
+    title: "Integrating Electrical Resistivity Tomography Techniques, Field Observations, and Numerical Simulations to Investigate Dynamics of Submarine Groundwater Discharge of the Taoyuan Tableland, Taiwan",
+    conference: "AGU Fall Meeting 2023",
     year: "2023",
     pdf: "assets/documents/publications/thesis-2023.pdf"
   },
