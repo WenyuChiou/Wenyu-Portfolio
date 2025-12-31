@@ -1,4 +1,5 @@
 
+import React from 'react';
 import { PERSONAL_INFO } from '../constants';
 
 const Navbar: React.FC = () => {
