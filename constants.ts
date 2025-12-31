@@ -105,5 +105,9 @@ export const SKILLS: SkillCategory[] = [
   {
     category: "AI & Emerging Tech",
     skills: ["LLM-Enabled Agents", "Prompt Engineering", "Multi-Agent Systems", "Automated Workflows"]
+  },
+  {
+    category: "AI Native Workflows",
+    skills: ["Claude Code", "Cursor", "Windsurf", "Antigravity with MCP"]
   }
 ];
